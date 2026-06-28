@@ -1,3 +1,7 @@
+import firstSelfie from "./assets/images/regenerated_image_1782674594978.jpg";
+import favPic from "./assets/images/regenerated_image_1782674698107.jpg";
+import funnyPic from "./assets/images/regenerated_image_1782674783860.jpg";
+
 export interface MemoryItem {
   id: number;
   title: string;
@@ -69,9 +73,9 @@ export const DEFAULT_STATE: ApologyState = {
   galleryFavPicCaption: "The prettiest soul and most beautiful face.",
   galleryFunnyPicCaption: "I love your crazy, silly side more than anything.",
   galleryRandomPicCaption: "Every single ordinary moment with you is precious.",
-  galleryFirstSelfieUrl: "/src/assets/images/regenerated_image_1782674594978.jpg",
-  galleryFavPicUrl: "/src/assets/images/regenerated_image_1782674698107.jpg",
-  galleryFunnyPicUrl: "/src/assets/images/regenerated_image_1782674783860.jpg",
+  galleryFirstSelfieUrl: firstSelfie,
+  galleryFavPicUrl: favPic,
+  galleryFunnyPicUrl: funnyPic,
   galleryRandomPicUrl: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&q=80&w=600",
   
   thingsIWantToSay: [
