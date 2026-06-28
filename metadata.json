@@ -1,0 +1,6 @@
+{
+  "name": "I'm Sorry ❤️",
+  "description": "A beautiful, immersive, and interactive apology website filled with sweet memories, handwritten letter scrolls, interactive promises, and a lovely surprise.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
